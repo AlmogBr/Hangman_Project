@@ -1,7 +1,6 @@
 """
 Self.py course - Final Project - HANGMAN!
 Made by: Almog Braunstein
-
 """
 
 # -----------------------------------------------------game functions---------------------------------------------------
